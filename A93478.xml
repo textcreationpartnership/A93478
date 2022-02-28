@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A solemn protestation against George Keith's advertisment, arbitrary summons and proceedings against certain persons, and a meeting of the people called Quakers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93478</idno>
+            <idno type="STC">Wing S4453A</idno>
+            <idno type="STC">ESTC R230302</idno>
+            <idno type="EEBO-CITATION">99895980</idno>
+            <idno type="PROQUEST">99895980</idno>
+            <idno type="VID">153601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2371:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A solemn protestation against George Keith's advertisment, arbitrary summons and proceedings against certain persons, and a meeting of the people called Quakers</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Dated at end: London, the 26th day of the 2d month, 1697.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term>Society of Friends --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153601:1"/>
+            <head>
+               <hi>A Solemn</hi> PROTESTATION <hi>againſt</hi> George Keith<hi>'s Advertiſment, Arbitrary Summons and Proceedings againſt Certain Perſons, and a Meet<g ref="char:EOLhyphen"/>ing of the People called</hi> Quakers.</head>
+            <p>WHEREAS the ſaid <hi>G. K.</hi> a Scotchman, has aſſumed to him<g ref="char:EOLhyphen"/>ſelf a Power and Authority to Erect ſeveral Meetings of the Nature of ſome ſtrange and new Court of Judicature at <hi>Turners-Hall, London,</hi> one on the Eleventh of the Month called <hi>June,</hi> 1696. and another on the 29th of this preſent Month called <hi>April,</hi> 1697. (under pretence of having the <hi>Permiſſion of the Civil Authority, that he is further to Detect the Vile and Groſs Errors and Hereſies of certain</hi> Perſons by Name, and a Meeting of the People called <hi>Quakers</hi>) unto which he hath Cited or Summoned them, to <hi>hear themſelves Re-charged, and Prov'd Guilty thereof,</hi> as being <hi>Repugnant to the Great Fundamentals of the Chriſtian Religion</hi> (which Charges of his, as perverſly Stated by him, are Expreſly Denyed by us) for Proof thereof, Referring to his own Printed <hi>Advertiſement</hi> and <hi>Narrative,</hi> which have been largely Anſwered in Print, he having begun the Controverſy with us, by Print<g ref="char:EOLhyphen"/>ing divers bitter Invectives againſt us, expreſly Contrary to his own for<g ref="char:EOLhyphen"/>mer Teſtimonies in Print; and divers of our Friends Books, in Anſwer to him, ſtill lye heavy upon him, unreply'd to. And ſeeing he cannot Effect his Invidious Deſigns in Print, to make his Odious Character of <hi>Hereſie, Spreading Gangreen, and Contagion,</hi> &amp;c. take Effect againſt us, he has Preſum'd to Erect ſuch an Arbitrary Courſe of Judicature, in a Con<g ref="char:EOLhyphen"/>fuſed Meeting at <hi>Turners-Hall,</hi> and thereunto, in his own Name and Au<g ref="char:EOLhyphen"/>thority, to Summon the Perſons and Meeting, as aforeſaid, without their Privity, Concurrence, Conſent or Agreement thereunto; either as to the Time, Place, Terms or Propoſitions, but he is the Sole Impoſer.</p>
+            <p>We therefore, who are Concern'd in behalf of the Peaceable People called <hi>Quakers,</hi> both as Free-Born Engliſh-Men and Chriſtians, do deny, and Solemnly Teſtifie againſt the Uſurpation, Arbitrary and Irregular Proceedings of the ſaid <hi>G. K.</hi> and againſt his new Juriſdiction (aſſum'd by him) for the ſame Reaſons, which were Exhibited in Print the laſt Year, <hi>Why the People called</hi> Quakers <hi>Refuſed their Appearance at his Pe<g ref="char:EOLhyphen"/>remptory Summons</hi> (and therefore he had no Reaſon to Expect their Ap<g ref="char:EOLhyphen"/>pearance this Year, the more Inſincere he, in his new Summons) and more particularly,</p>
+            <pb n="2" facs="tcp:153601:2"/>
+            <p n="1">1. Becauſe he has no Legal Power to Erect any ſuch new <hi>Court</hi> of Ju<g ref="char:EOLhyphen"/>dicature, and therein ſet himſelf up as Judge, and Publickly to Stage, Brand, and Condemn Peaceable Proteſtant Subjects, and that in their Abſence too (who are alſo Free-Born Engliſh-Men) as <hi>Hereticks,</hi> &amp;c. and thereby to Endeavour to Expoſe them to the Scorn, Contempt and Rage of a mixt Multitude, who are unmeet to Judge of Religious and Spiritual Matters, or Controverſies.</p>
+            <p n="2">2. We do not believe the Civil Authority, or any Concerned there<g ref="char:EOLhyphen"/>in, on Due Conſideration, or Juſt Information, will Countenance or Per<g ref="char:EOLhyphen"/>mit ſuch an Uſurp'd Authority, or Pernicious Preſident, as the ſaid <hi>G. K.</hi> has Aſſum'd and Attempted in this Caſe; tending, not only to Diſ<g ref="char:EOLhyphen"/>cord, Diviſions, Heats, Animoſities and Tumults, but to Invade the juſt Liberties of Free-Born Engliſh-Men (who are Peaceable Proteſtant Sub<g ref="char:EOLhyphen"/>jects,) and to Gratify and Strengthen the Popiſh Intereſt, that they may Glory in ſuch Diviſions and Diſorders, made by Turbulent Incendiaries.</p>
+            <p>We are not Unfenſible, that ſome Officious and Envious Agents are in the bottom of this Turbulent Attempt; who, altho' they may pretend to be Reformed Proteſtants, yet ſavour too much of a Popiſh Perſecuting Spi<g ref="char:EOLhyphen"/>rit, (Juſtly Complain'd of by Proteſtants) and whoſe Work tends to bring an <hi>Odium</hi> upon the Proteſtant Religion.</p>
+            <p n="3">3. We preſume the ſaid <hi>G. K.</hi> can Produce no Legal Commiſſion from the Civil Authority, either by Act of Parliament, or under the Great Seal of <hi>England, Annually</hi> to Erect and hold his ſaid Court of Ju<g ref="char:EOLhyphen"/>dicature, to Summon, Convict and Condemn <hi>Quakers</hi> (ſo called) or any other Free-Born Engliſh-Men, or Proteſtant Subjects for <hi>Hereſie</hi> or <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> who are Contrary wiſe Legally Recognized.</p>
+            <p n="4">4. His feigned and falſe Pretence of <hi>Juſtly Deſiring</hi> the Perſons and Meeting aforeſaid to be preſent (<hi>i. e.</hi> to hear themſelves <hi>Recharged,</hi> Con<g ref="char:EOLhyphen"/>victed and Condemn'd of <hi>Vile</hi> and <hi>Groſs Hereſies,</hi> &amp;c.) appears, not only a peremptory Summons, but his Noiſe of <hi>Vile</hi> and <hi>Groſs Errors,</hi> and <hi>Hereſies, ſpreading Gangreen and Contagion, Infecting many Thouſands in theſe Three Na<g ref="char:EOLhyphen"/>tions,</hi> &amp;c. does much Reſemble the Popiſh Clamours and Calumnies againſt Proteſtant Martyrs, and then <hi>away with them, cut them off;</hi> and Fire and Faggot followed, when the Writ <hi>de Haeretico Gomburendo,</hi> and the Six Bloody Articles were in Force, 31. <hi>H.</hi> 8. Ch. 14. both which are juſtly and happily Repeal'd.</p>
+            <p n="5">5. For the ſame Reaſons, which the Parliament gave in the 16th Year of K. <hi>Charles</hi> the <hi>Firſt,</hi> againſt the <hi>Court of Star-Chamber,</hi> and <hi>High-Commiſſion-Court</hi> (Ch. 9, 10.) and for taking away, and diſſolving the ſame (tho' theſe had more Face of Authority, than this of <hi>G. Keith</hi>'s) we Oppoſe, Deny and Proteſt againſt theſe his Irregular and Arbitrary
+<pb n="3" facs="tcp:153601:2"/>Proceedings and his new Court of Judicature, and Uſurped Pow<g ref="char:EOLhyphen"/>er and Authority therein, as (not only tending to Diſcord, Diſorder, and Perſecution, and Endangering the Publick Peace, but alſo) Re<g ref="char:EOLhyphen"/>pugnant to the <hi>Great Charter, Fundamental Laws (and Liberties of</hi> Eng<g ref="char:EOLhyphen"/>land) Providing <hi>that no Free-Man ſhall be Condemned, or any way Deſtroy<g ref="char:EOLhyphen"/>ed</hi> without <hi>due Order of Law;</hi> as well as expreſly Contrary to the Intent and Tenor of the late Act of Parliament, made in the 1ſt Year of the Reign of K. <hi>William</hi> and Q. <hi>Mary,</hi> Entituled, <hi>An Act for Exempting their Majeſties Proteſtant Subjects Diſſenting from the Church of</hi> England, <hi>&amp;c.</hi> made <hi>for the Eaſe of Scrupulous Conſciences in the Exerciſe of Religion, as an Effectual Means to <g ref="char:V">Ʋ</g>nite their Majeſties Proteſtant Subjects in Intereſt and Affection.</hi> And the Meeting Places thereby Permitted or Allow'd and Recorded, being for <hi>RELIGIO<g ref="char:V">Ʋ</g>S WORSHIP,</hi> as in the ſaid Act is Ex<g ref="char:EOLhyphen"/>preſſed, Conſequently, not for Diviſion, Diſcord or Stages of Conten<g ref="char:EOLhyphen"/>tention; and therefore we are not free, either as Men or Chriſtians, to Subject our ſelves to any ſuch Irregular Summons, or Arbitrary Power and Uſurpation, as aforeſaid.</p>
+            <p n="6">6. <hi>Hereſie</hi> having been made an High Crime in Law [<hi>Mirror. Juſtices,</hi> p. 16.] and highly Puniſhable, <hi>G. K.</hi>'s Publickly Staging and Branding us as <hi>Hereticks,</hi> appears both an High Defamation, and tending to Deſtroy us in our Reputations and Liberties alſo, both Contrary to Law and Goſ<g ref="char:EOLhyphen"/>ple, and to Introduce a new and ſevere Perſecution to Gratify his Envy. For his Turbulent, Perſecuting Spirit and Apoſtacy, from Chriſtian Cha<g ref="char:EOLhyphen"/>rity, Meekneſs and Moderation, and from that Faith that Works by Love, ſufficiently appear; alſo by his <hi>Earneſt Expoſtulation with the moſt Pious and Learned of the Church of</hi> England (as Flatteringly he Terms them) to Incenſe both the Clergy and Civil Authority againſt us, in his Printed Poſtſcript to his <hi>Antichriſts and Sadducees,</hi> and therein Commend<g ref="char:EOLhyphen"/>ing the Popiſh Watch-Men of <hi>Rome,</hi> and <hi>Popiſh Countries,</hi> above <hi>moſt among the Proteſtants,</hi> for their Zeal againſt ſuch <hi>Antichriſtian Errors and Hereſies,</hi> as he there would make the World believe, Quakers hold <hi>much worſe than the worſt of Popery</hi> (p. 40, 41.) and his Summoning and Condemn<g ref="char:EOLhyphen"/>ing us as <hi>Hereticks,</hi> appears ſo much Reſembling the Practice of ſome of his Country-Men of the <hi>Presbytery,</hi> to Incenſe the Rabble or Mob againſt our Friends in <hi>Scotland,</hi> as they have of late ſhamefully done, both in <hi>Glaſ<g ref="char:EOLhyphen"/>gow</hi> and <hi>Edenbrough,</hi> to the Great and Barbarous Abuſe of our poor harm<g ref="char:EOLhyphen"/>leſs Friends in thoſe parts, by their bitter Clamours and Aſperſions againſt them, as <hi>Hereticks,</hi> &amp;c. That we humbly hope, the Civil Proteſtant Go<g ref="char:EOLhyphen"/>vernment of <hi>England</hi> will never Countenance or Permit ſuch unwarranta<g ref="char:EOLhyphen"/>ble Uſurpation, which is not to uſe only <hi>Spiritual Weapons</hi> (as he pre<g ref="char:EOLhyphen"/>tends) but is of a contrary Nature and Tendence. We having treated
+<pb n="4" facs="tcp:153601:3" rendition="simple:additions"/>the ſaid <hi>G. K.</hi> at many Select and Solemn Meetings, we have had with him, in all Chriſtian Patience and Tenderneſs on our parts; which were Slighted and Rejected by him. Thus we have Anſwer'd his <hi>Ad<g ref="char:EOLhyphen"/>vertiſement</hi> and <hi>Summons, ad hominem,</hi> as Peaceable, Free-Born Engliſh-Men, whoſe preſent Liberty ought not to be Invaded or Diſquieted, ei<g ref="char:EOLhyphen"/>ther by any Arbitrary Uſurpation, or Contentious Irreligious Meetings, whoſe End is to Aſperſe and Abuſe others: Nor may ſuch, with ſafety, be Imitated, Allowed or Abetted by any of different Perſwaſions.</p>
+            <p>Now, let it be obſerved, whatever may happen to be the Effects or Conſequence of the ſaid <hi>G. K.</hi>'s Diſorderly and Unwarrantable Proceed<g ref="char:EOLhyphen"/>ings, or Meeting aforeſaid, we have given out this Solemn Proteſtation againſt the ſame, to Manifeſt our own Innocency and Clearneſs there<g ref="char:EOLhyphen"/>from.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the 26th Day of the 2d Month, 1697.</date>
+               </dateline> 
+               <hi>Written, in Behalf of the People called</hi> Quakers, <hi>by ſome of them Con<g ref="char:EOLhyphen"/>cerned.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
